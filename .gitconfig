@@ -1,0 +1,5 @@
+[user]
+	email = jdoe@mail.nonexist
+	name = John Doe
+[alias]
+	history = log --graph
